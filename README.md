@@ -1,6 +1,6 @@
 Wow! that took a really long time and now everything is different!
 
-Finally got also_michaelBot v2 done and it no longer uses any ML. It's starting league play soon, and I'll post here hopefully before Lightfall(the next major RLBot tournament).
+Finally got also_michaelBot v2 done and it no longer uses any ML.
 
 Changes for the new bot entering league play:
 * The new bot and the one currently in this repo share no code.
@@ -15,3 +15,9 @@ Why these changes occur:
 * The new bot takes more shots than this bot does
 * The new bot has more accurate shots that this one does
 
+Tournaments competed in:
+RLBot Lightfall: 5th place
+Ultimate Battle League - Team LulW: Qualified for top 8 league play. Didn't make playoffs :(
+RLBot Championship 2020: Eliminated in Round Robin.
+
+# New Bot Tool coming here in the coming months! About 1/3 of the way done!
