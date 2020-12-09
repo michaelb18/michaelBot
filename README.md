@@ -16,10 +16,11 @@ Why these changes occur:
 * The new bot has more accurate shots that this one does
 
 Tournaments competed in:
-RLBot Lightfall: 5th place
 
-Ultimate Battle League - Team LulW: Qualified for top 8 league play. Didn't make playoffs :(
+- RLBot Lightfall: 5th place
 
-RLBot Championship 2020: Eliminated in Round Robin.
+- Ultimate Battle League - Team LulW: Qualified for top 8 league play. Didn't make playoffs :(
+
+- RLBot Championship 2020: Eliminated in Round Robin.
 
 # New Bot Tool coming here in the coming months! About 1/3 of the way done!
