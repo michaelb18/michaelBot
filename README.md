@@ -17,7 +17,9 @@ Why these changes occur:
 
 Tournaments competed in:
 RLBot Lightfall: 5th place
+
 Ultimate Battle League - Team LulW: Qualified for top 8 league play. Didn't make playoffs :(
+
 RLBot Championship 2020: Eliminated in Round Robin.
 
 # New Bot Tool coming here in the coming months! About 1/3 of the way done!
