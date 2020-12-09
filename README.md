@@ -5,7 +5,6 @@ Finally got also_michaelBot v2 done and it no longer uses any ML.
 Changes for the new bot entering league play:
 * The new bot and the one currently in this repo share no code.
 * The new bot no longer uses ML, but it still (pretty much)stateless like this one is
-* The new bot uses hardcoded path planning, but this bot uses ML to approximate path planning
 * The new bot has no rendering
 * The new bot has a different kickoff
 
